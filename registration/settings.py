@@ -138,7 +138,7 @@ EMAIL_USE_TLS = True  # Use TLS for secure connection
 
 
 EMAIL_HOST_USER = 'nasib4patel@gmail.com'  # Your email username
-EMAIL_HOST_PASSWORD = 'rssw ispf damb vqls'  # Your email password
+EMAIL_HOST_PASSWORD = ''  # Your email password
 
 
 
